@@ -1,2 +1,4 @@
 # Simple-Browser
-A simple browser using Python3
+A simple Browser using Python3 and PyQt5 module
+
+create your own browser.
